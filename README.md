@@ -32,7 +32,7 @@ Example Usage
 # Add a new item
 totalPrice, itemName, quantity, price = add_inventory_id()
 
-# Display item details
+Display item details
 print(f"Item : {itemName}")
 print(f"Item Id: {itemID}")
 print(f"Quantity: {quantity}")

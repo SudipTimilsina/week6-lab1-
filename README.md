@@ -9,7 +9,8 @@ Calculate total value for each item
 This prototype demonstrates basic Python concepts such as variables, functions, input/output, and simple calculations.
 
 Features
-Add Inventory Item:
+
+Add Inventory Item
 Users can enter item name, quantity, and price per item. Each new item automatically gets a unique itemID.
 Calculate Total Value:
 The total price for each item is calculated automatically as quantity × price.

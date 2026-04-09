@@ -32,7 +32,8 @@ update_Inventory() (not fully implemented yet):
 Prompts the user for item ID
 Allows updating quantity and price
 Example Usage
-# Add a new item
+
+Add a new item
 totalPrice, itemName, quantity, price = add_inventory_id()
 
 Display item details

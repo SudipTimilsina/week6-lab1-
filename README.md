@@ -15,10 +15,12 @@ Add Inventory Item
 Users can enter item name, quantity, and price per item. Each new item automatically gets a unique itemID.
 Calculate Total Value:
 The total price for each item is calculated automatically as quantity × price.
+
 Display Item Details:
 The program prints the item’s name, ID, quantity, price, and total value.
 Update Inventory (Partial Implementation):
 A function is included to update quantity and price by entering the item ID (needs minor adjustments for full functionality).
+
 How It Works
 itemID is a global variable that starts at 1000 and increments automatically whenever a new item is added.
 calculate_total_value(price, quantity) computes the total price.
